@@ -4,7 +4,7 @@ Hi, I'm **Rohith Reddy**, a **Cloud Computing Enthusiast** and **DevOps Learner*
 
 ## 📚 About Me
 
-💼 **Cloud Computing & DevOps Enthusiast**  
+💼 **Cloud Computing & DevOps Enthusiast**   
 🌱 Currently enhancing my skills in **AWS**, **Azure**, **Linux**, **DevOps**, **HTML**, **CSS**, **SQL**, **Python**, **Java**  
 ✨ Completed **Cloud Computing Course** at **Besant Technologies**  
 🎓 Completed **Bachelor's in Information Technology at SVCE**
